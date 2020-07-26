@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm Taufiq</h2>
 
 <p align="center">
-  <a href="https://arhen.dev/">
+  <a href="http://squaredeep.blogspot.com/">
     Blog ·
 </p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MtaufiqH&show_icons=true&hide_border=true"/>
