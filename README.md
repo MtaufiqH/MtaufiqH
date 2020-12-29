@@ -12,7 +12,7 @@
 
 - An Android Developer that lovable Programmer :sunglasses:
 - **Kotlin and Java** lover
-- Recently learning **Android Jetpack And Kotlin Coroutines**
+- Recently learning **Android Architecture Component And MVVM Design Pattern**
 
 <!--
 ref:
