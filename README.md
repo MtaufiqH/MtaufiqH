@@ -10,7 +10,7 @@
 ### About Me
 - An Android Developer that lovable Programmer :sunglasses:
 - **Kotlin and Java** lover
-- Recently learning **Android Architecture Component And MVVM Design Pattern**
+- Recently learning **Clean Architecuture in Android and Modularization**
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MtaufiqH&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=454545" />
 
