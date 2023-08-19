@@ -9,8 +9,8 @@
 
 ### About Me
 - An Android Developer that lovable Programmer :sunglasses:
-- **Kotlin and Java** lover
-- Recently learning **Clean Architecuture in Android and Modularization**
+- **Kotlin** lover
+- Recently learning **Compose Multiplatform and Kotlin Multiplatform(KMP)**
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MtaufiqH&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=454545" />
 
